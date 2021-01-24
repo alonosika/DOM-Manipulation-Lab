@@ -1,0 +1,17 @@
+* {
+  font-size: 20px;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+li {
+  margin-bottom: 10px;
+}
+
+li button {
+  margin-left: 20px;
+  color: rgb(231, 0, 0);
+}
+
+h1 {
+  font-size: 40px;
+}
